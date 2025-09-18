@@ -1,2 +1,31 @@
 # projeto1-web1
 projeto 1
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Apresentação Pessoal</title>
+    </head>
+    <header>
+        <h1>Bem-vindo à minha página!</h1>
+        <nav>
+            <ul>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#hobbies">Hobbies</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <body>
+        <h2><a id="sobre"></a>Sobre Mim</h2>
+        <p>Meu Nome é Tamires Andrade. Sou estudante do curso Tecnico de infomática e tenho interesse em letras.</p>
+        <h2><a id="hobbies">Meus Hobbies</a></h2>
+        <li>passear</li>
+        <li>estudar</li>
+        <li>ler</li>
+    </body>
+    <footer>
+        <h2><a id="contato"></a>Contato</h2>
+        <p>Email: tamirees907@gmail.com</p>
+    </footer>
+</html>
